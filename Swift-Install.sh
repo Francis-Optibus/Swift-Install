@@ -38,7 +38,7 @@ title="Select Your Application"
 message="The below applications are available to install for your computer. Please select from drop down below"
 icon="/System/Applications/App Store.app/Contents/Resources/AppIcon.icns"
 selecttitle="Available Applications"
-selectvalues="Firefox Pkg,Atom,Brave,Keka,Microsoft Edge,Opera,Google Chrome Pkg,Slack, Universal Type Client"
+selectvalues="Keka,Microsoft Edge"
 
 application=""
 while [[ -z $application ]]; do
